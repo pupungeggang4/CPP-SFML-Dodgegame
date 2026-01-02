@@ -43,3 +43,5 @@
 .DS_Store
 *.swp
 Release/
+lib/
+
